@@ -5,7 +5,5 @@ body {
 }
 
 .top-line {
-  border-bottom: 1px solid #e7e9fc;
-  background: #fff;
-  flex-shrink: 0;
+  background-color: #fff;
 }
