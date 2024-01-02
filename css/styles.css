@@ -83,12 +83,3 @@ body {
   letter-spacing: 0.72px;
   text-transform: capitalize;
 }
-
-.h3 {
-  color: #2e2f42;
-
-  /* Header 3 */
-  font-family: Roboto;
-  font-size: 20px;
-  letter-spacing: 0.4px;
-}
