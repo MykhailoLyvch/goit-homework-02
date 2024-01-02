@@ -44,3 +44,13 @@ body {
 .hero {
   background: #2e2f42;
 }
+
+.hero-content {
+  color: #fff;
+  text-align: center;
+
+  /* Header 1 */
+  font-family: Roboto;
+  font-size: 56px;
+  letter-spacing: 1.12px;
+}
