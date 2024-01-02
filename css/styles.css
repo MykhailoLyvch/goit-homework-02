@@ -1,0 +1,135 @@
+.main-page {
+  font-family: "Roboto", "Raleway" sans-serif;
+
+  background: #fff;
+}
+
+.top-line {
+  border-bottom: 1px solid #e7e9fc;
+  background: #fff;
+  width: 1440px;
+  height: 72px;
+  flex-shrink: 0;
+}
+
+.logo-first-part {
+  color: #4d5ae5;
+  font-family: Raleway;
+  font-size: 18px;
+  font-weight: 700;
+  line-height: 21px; /* 116.667% */
+  letter-spacing: 0.54px;
+  text-transform: uppercase;
+}
+
+.logo-second-part {
+  color: #2e2f42;
+  font-family: Raleway;
+  font-size: 18px;
+  font-weight: 700;
+  line-height: 21px; /* 116.667% */
+  letter-spacing: 0.54px;
+  text-transform: uppercase;
+}
+
+.menu {
+  color: #2e2f42;
+  /* Body Medium */
+  font-family: Roboto;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 24px; /* 150% */
+  letter-spacing: 0.32px;
+}
+
+.kontakt-box {
+  color: #434455;
+
+  /* Body */
+  font-family: Roboto;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 24px; /* 150% */
+  letter-spacing: 0.32px;
+}
+
+.hero {
+  background: #2e2f42;
+}
+
+.hero-content {
+  color: #fff;
+  text-align: center;
+
+  /* Header 1 */
+  font-family: Roboto;
+  font-size: 56px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 60px; /* 107.143% */
+  letter-spacing: 1.12px;
+}
+
+.hero-btn {
+  border-radius: 4px;
+  background: #4d5ae5;
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.15);
+
+  font-family: Roboto;
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 24px; /* 150% */
+  letter-spacing: 0.64px;
+}
+
+.hero-btn .link:focus,
+.hero-btn .link:hover {
+  color: #4d5ae5;
+}
+
+.h2 {
+  color: #2e2f42;
+  text-align: center;
+
+  /* Header 2 */
+  font-family: Roboto;
+  font-size: 36px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 40px; /* 111.111% */
+  letter-spacing: 0.72px;
+  text-transform: capitalize;
+}
+
+.h3 {
+  color: var(--NAVY-BLUE, #2e2f42);
+
+  /* Header 3 */
+  font-family: Roboto;
+  font-size: 20px;
+  font-weight: 500;
+  line-height: 24px; /* 120% */
+  letter-spacing: 0.4px;
+}
+
+.p {
+  color: #434455;
+
+  /* Body */
+  font-family: Roboto;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 24px; /* 150% */
+  letter-spacing: 0.32px;
+}
+
+.our-team-content {
+  background: #f4f4fd;
+}
+
+.box {
+  background: #2e2f42;
+}
