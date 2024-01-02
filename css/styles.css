@@ -8,7 +8,7 @@ body {
   background-color: #fff;
 }
 
-.logo-first-part {
+.logo {
   color: #4d5ae5;
   font-family: Raleway;
   font-size: 18px;
@@ -16,7 +16,7 @@ body {
   text-transform: uppercase;
 }
 
-.logo-second-part {
+.logo-studio {
   color: #2e2f42;
   font-family: Raleway;
   font-size: 18px;
