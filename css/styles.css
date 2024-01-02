@@ -70,39 +70,3 @@ body {
 .hero-btn .link:hover {
   color: #4d5ae5;
 }
-
-.h2 {
-  color: #2e2f42;
-  text-align: center;
-
-  /* Header 2 */
-  font-family: Roboto;
-  font-size: 36px;
-  letter-spacing: 0.72px;
-  text-transform: capitalize;
-}
-
-.h3 {
-  color: #2e2f42;
-
-  /* Header 3 */
-  font-family: Roboto;
-  font-size: 20px;
-  letter-spacing: 0.4px;
-}
-
-.p {
-  color: #434455;
-
-  font-family: Roboto;
-  font-size: 16px;
-  letter-spacing: 0.32px;
-}
-
-.our-team-content {
-  background-color: #f4f4fd;
-}
-
-.box {
-  background-color: #2e2f42;
-}
