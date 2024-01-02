@@ -72,14 +72,3 @@ body {
 .hero-btn .link:hover {
   color: #4d5ae5;
 }
-
-.h2 {
-  color: #2e2f42;
-  text-align: center;
-
-  /* Header 2 */
-  font-family: Roboto;
-  font-size: 36px;
-  letter-spacing: 0.72px;
-  text-transform: capitalize;
-}
