@@ -44,29 +44,3 @@ body {
 .hero {
   background: #2e2f42;
 }
-
-.hero-content {
-  color: #fff;
-  text-align: center;
-
-  /* Header 1 */
-  font-family: Roboto;
-  font-size: 56px;
-  letter-spacing: 1.12px;
-}
-
-.hero-btn {
-  border-radius: 4px;
-  background-color: #4d5ae5;
-  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.15);
-
-  font-family: Roboto;
-  font-size: 16px;
-
-  letter-spacing: 0.64px;
-}
-
-.hero-btn .link:focus,
-.hero-btn .link:hover {
-  color: #4d5ae5;
-}
