@@ -65,8 +65,3 @@ body {
 
   letter-spacing: 0.64px;
 }
-
-.hero-btn .link:focus,
-.hero-btn .link:hover {
-  color: #4d5ae5;
-}
