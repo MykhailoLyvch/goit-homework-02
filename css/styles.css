@@ -32,3 +32,64 @@ body {
   font-style: normal;
   letter-spacing: 0.32px;
 }
+
+.kontakt-box {
+  color: #434455;
+
+  /* Body */
+  font-family: Roboto;
+  font-size: 16px;
+  font-style: normal;
+  letter-spacing: 0.32px;
+}
+
+.hero {
+  background: #2e2f42;
+}
+
+.hero-content {
+  color: #fff;
+  text-align: center;
+
+  /* Header 1 */
+  font-family: Roboto;
+  font-size: 56px;
+  letter-spacing: 1.12px;
+}
+
+.hero-btn {
+  border-radius: 4px;
+  background-color: #4d5ae5;
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.15);
+
+  font-family: Roboto;
+  font-size: 16px;
+
+  letter-spacing: 0.64px;
+}
+
+.hero-btn .link:focus,
+.hero-btn .link:hover {
+  color: #4d5ae5;
+}
+
+.h2 {
+  color: #2e2f42;
+  text-align: center;
+
+  /* Header 2 */
+  font-family: Roboto;
+  font-size: 36px;
+  font-style: normal;
+  letter-spacing: 0.72px;
+  text-transform: capitalize;
+}
+
+.h3 {
+  color: #2e2f42;
+
+  /* Header 3 */
+  font-family: Roboto;
+  font-size: 20px;
+  letter-spacing: 0.4px;
+}
