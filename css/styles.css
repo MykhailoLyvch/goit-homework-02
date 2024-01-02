@@ -14,8 +14,6 @@ body {
   color: #4d5ae5;
   font-family: Raleway;
   font-size: 18px;
-  font-weight: 700;
-  line-height: 21px; /* 116.667% */
   letter-spacing: 0.54px;
   text-transform: uppercase;
 }
@@ -24,8 +22,6 @@ body {
   color: #2e2f42;
   font-family: Raleway;
   font-size: 18px;
-  font-weight: 700;
-  line-height: 21px; /* 116.667% */
   letter-spacing: 0.54px;
   text-transform: uppercase;
 }
@@ -36,8 +32,6 @@ body {
   font-family: Roboto;
   font-size: 16px;
   font-style: normal;
-  font-weight: 500;
-  line-height: 24px; /* 150% */
   letter-spacing: 0.32px;
 }
 
@@ -48,8 +42,6 @@ body {
   font-family: Roboto;
   font-size: 16px;
   font-style: normal;
-  font-weight: 400;
-  line-height: 24px; /* 150% */
   letter-spacing: 0.32px;
 }
 
@@ -64,9 +56,6 @@ body {
   /* Header 1 */
   font-family: Roboto;
   font-size: 56px;
-  font-style: normal;
-  font-weight: 700;
-  line-height: 60px; /* 107.143% */
   letter-spacing: 1.12px;
 }
 
@@ -77,8 +66,7 @@ body {
 
   font-family: Roboto;
   font-size: 16px;
-  font-weight: 500;
-  line-height: 24px; /* 150% */
+
   letter-spacing: 0.64px;
 }
 
@@ -95,8 +83,6 @@ body {
   font-family: Roboto;
   font-size: 36px;
   font-style: normal;
-  font-weight: 700;
-  line-height: 40px; /* 111.111% */
   letter-spacing: 0.72px;
   text-transform: capitalize;
 }
@@ -107,8 +93,6 @@ body {
   /* Header 3 */
   font-family: Roboto;
   font-size: 20px;
-  font-weight: 500;
-  line-height: 24px; /* 120% */
   letter-spacing: 0.4px;
 }
 
@@ -119,8 +103,6 @@ body {
   font-family: Roboto;
   font-size: 16px;
   font-style: normal;
-  font-weight: 400;
-  line-height: 24px; /* 150% */
   letter-spacing: 0.32px;
 }
 
