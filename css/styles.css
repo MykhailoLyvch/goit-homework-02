@@ -15,3 +15,20 @@ body {
   letter-spacing: 0.54px;
   text-transform: uppercase;
 }
+
+.logo-second-part {
+  color: #2e2f42;
+  font-family: Raleway;
+  font-size: 18px;
+  letter-spacing: 0.54px;
+  text-transform: uppercase;
+}
+
+.menu {
+  color: #2e2f42;
+  /* Body Medium */
+  font-family: Roboto;
+  font-size: 16px;
+  font-style: normal;
+  letter-spacing: 0.32px;
+}
