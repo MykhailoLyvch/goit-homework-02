@@ -17,7 +17,7 @@ body {
   font-family: Raleway;
   font-size: 18px;
   font-weight: 700;
-  line-height: 21px; /* 116.667% */
+  line-height: 1.1; /* 116.667% */
   letter-spacing: 0.54px;
   text-transform: uppercase;
 }
@@ -27,7 +27,7 @@ body {
   font-family: Raleway;
   font-size: 18px;
   font-weight: 700;
-  line-height: 21px; /* 116.667% */
+  line-height: 1.1; /* 116.667% */
   letter-spacing: 0.54px;
   text-transform: uppercase;
 }
@@ -39,7 +39,7 @@ body {
   font-size: 16px;
   font-style: normal;
   font-weight: 500;
-  line-height: 24px; /* 150% */
+  line-height: 1.5; /* 150% */
   letter-spacing: 0.32px;
 }
 
@@ -51,7 +51,7 @@ body {
   font-size: 16px;
   font-style: normal;
   font-weight: 400;
-  line-height: 24px; /* 150% */
+  line-height: 1.5; /* 150% */
   letter-spacing: 0.32px;
 }
 
@@ -62,13 +62,12 @@ body {
 .hero-content {
   color: #fff;
   text-align: center;
-
-  /* Header 1 */
-  font-family: Roboto;
+ /* Header 1 */
+   font-family: Roboto;
   font-size: 56px;
   font-style: normal;
   font-weight: 700;
-  line-height: 60px; /* 107.143% */
+  line-height: 1.0; /* 107.143% */
   letter-spacing: 1.12px;
 }
 
@@ -80,13 +79,16 @@ body {
   font-family: Roboto;
   font-size: 16px;
   font-weight: 500;
-  line-height: 24px; /* 150% */
+  line-height: 1.5; /* 150% */
   letter-spacing: 0.64px;
+  
+ 
 }
 
 .hero-btn .link:focus,
 .hero-btn .link:hover {
-  color: #4d5ae5;
+  color: #404BBF;
+  cursor: pointer;
 }
 
 .h2 {
@@ -98,7 +100,7 @@ body {
   font-size: 36px;
   font-style: normal;
   font-weight: 700;
-  line-height: 40px; /* 111.111% */
+  line-height: 1.5; /* 111.111% */
   letter-spacing: 0.72px;
   text-transform: capitalize;
 }
@@ -110,7 +112,7 @@ body {
   font-family: Roboto;
   font-size: 20px;
   font-weight: 500;
-  line-height: 24px; /* 120% */
+  line-height: 1.2; /* 120% */
   letter-spacing: 0.4px;
 }
 
@@ -121,8 +123,7 @@ body {
   font-family: Roboto;
   font-size: 16px;
   font-style: normal;
-  font-weight: 400;
-  line-height: 24px; /* 150% */
+    line-height: 1.5; /* 150% */
   letter-spacing: 0.32px;
 }
 
