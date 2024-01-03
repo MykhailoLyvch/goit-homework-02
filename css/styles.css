@@ -36,6 +36,18 @@ body {
   letter-spacing: 0.32px;
 }
 
+.studio-sub-menu{
+  color: #2e2f42;
+  font-weight: 500;
+  line-height: 1.5
+ 
+}
+
+.studio-sub-menu:hover
+.studio-sub-menu:focus{
+color: #404bbf;
+}
+
 .kontakt-box {
   color: #434455;
 
