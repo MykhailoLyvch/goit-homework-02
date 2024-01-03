@@ -78,21 +78,26 @@ color: #404bbf;
   text-align: center;
 
   /* Header 1 */
-  font-family: Roboto;
+  font-family: "Roboto", sans-serif;
   font-size: 56px;
   letter-spacing: 1.12px;
+  line-height: 1.07;
 }
 
 .hero-btn {
   background-color: #4d5ae5;
-  font-family: Roboto;
+  color: #ffffff;
+  font-family: "Roboto", sans-serif;
   font-size: 16px;
+  font-weight: 500;
+  line-height: 1.5;
   letter-spacing: 0.64px;
+  cursor: pointer;
 }
 
-.hero-btn .link:focus,
-.hero-btn .link:hover {
-  color: #4d5ae5;
+.hero-btn:focus,
+.hero-btn:hover {
+  color: #404BBF;
 }
 
 .h2 {
