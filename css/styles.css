@@ -53,8 +53,20 @@ color: #404bbf;
 
   /* Body */
   font-family: Roboto;
+  font-style: normal;
   font-size: 16px;
   letter-spacing: 0.32px;
+}
+
+.adress-data{
+  color: #434455;
+  line-height: 1.5;
+  
+}
+
+.adress-data:hover,
+.adress-data:focus{
+color: #404bbf;
 }
 
 .hero {
