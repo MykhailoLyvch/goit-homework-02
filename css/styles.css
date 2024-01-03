@@ -97,7 +97,7 @@ color: #404bbf;
 
 .hero-btn:focus,
 .hero-btn:hover {
-  color: #404BBF;
+  background-color: #404BBF;
 }
 
 .h2 {
@@ -111,14 +111,17 @@ color: #404bbf;
   text-transform: capitalize;
 }
 
-.h3 {
-  color: #2e2f42;
 
-  /* Header 3 */
-  font-family: Roboto;
+.strategy-title{
+color: #2E2F42;
+ font-family: Roboto;
   font-size: 20px;
+  font-weight: 500;
+  line-height: 24px;
   letter-spacing: 0.4px;
 }
+
+
 
 .p {
   color: #434455;
