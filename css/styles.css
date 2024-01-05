@@ -71,7 +71,6 @@ color: #404bbf;
 .hero-content {
   color: #fff;
   text-align: center;
-
   font-size: 56px;
   letter-spacing: 1.12px;
   line-height: 1.07;
@@ -96,7 +95,6 @@ color: #404bbf;
 .h2 {
   color: #2e2f42;
   text-align: center;
-
    font-size: 36px;
   letter-spacing: 0.72px;
   text-transform: capitalize;
@@ -111,13 +109,8 @@ color: #2E2F42;
   letter-spacing: 0.4px;
 }
 
-
-
 .description {
-
-  
   font-size: 16px;
-  
   line-height: 1.5;
   letter-spacing: 0.32px;
 }
@@ -130,9 +123,9 @@ color: #2E2F42;
   color:  #2E2F42;
     text-align: center;
     font-size: 36px;
-        font-weight: 700;
+    font-weight: 700;
     line-height: 1.11;
-      letter-spacing: 0.72px;
+    letter-spacing: 0.72px;
     text-transform: capitalize;
 }
 
@@ -142,17 +135,15 @@ background-color: #FFFFFF;
 }
 
 .profesion{
-      text-align: center;
+    text-align: center;
     font-size: 16px;
-        line-height: 1.5;
+    line-height: 1.5;
     letter-spacing: 0.32px;
 }
 
 
 .app-title{
   color: #2E2F42;
-    
- 
     font-size: 20px;
     font-weight: 500;
     line-height: 1.2;
@@ -180,9 +171,7 @@ text-transform: uppercase;
 
 .foter-description{
 color: #F4F4FD;
-
 font-size: 16px;
-
 line-height: 1.5;
 letter-spacing: 0.32px;
 }
